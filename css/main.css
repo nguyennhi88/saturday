@@ -1,0 +1,28 @@
+nav a:hover{
+	background-color: blue;
+}
+
+#buttonone {
+	background-color: orange;
+	color:blue;
+	width: 30%;
+	border-style: none;
+	
+}
+
+#buttontwo{
+	background-color: pink;
+	color:white;
+
+
+
+}
+
+#buttonthree{
+	border-style: none;
+
+}
+#buttonfour{
+	border-style: none;
+	
+}
